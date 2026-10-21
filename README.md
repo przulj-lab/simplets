@@ -8,7 +8,7 @@
 
 Corresponding author: Prof. N. Pržulj, natasa.przulj@mbzuai.ac.ae
 
-<img src="images/SC.png" width="400">
+<img src="images/SC.png" width="600">
 
 </div>
 
